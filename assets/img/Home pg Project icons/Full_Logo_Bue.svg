@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 196.32 40.54">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #01425c;
+      }
+
+      .cls-4 {
+        letter-spacing: 0em;
+      }
+
+      .cls-5 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-6 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-7 {
+        letter-spacing: 0em;
+      }
+
+      .cls-8 {
+        letter-spacing: 0em;
+      }
+
+      .cls-3 {
+        font-family: Lato-Bold, Lato;
+        font-size: 17.28px;
+        font-weight: 700;
+      }
+
+      .cls-9 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-10 {
+        letter-spacing: 0em;
+      }
+
+      .cls-11 {
+        letter-spacing: -.01em;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g>
+      <g>
+        <path class="cls-2" d="m18.23,34.06c.39,1.32-.2,2.15-1.57,2.15H1.69c-1.37,0-1.96-.83-1.57-2.15l7.88-25.21c.54-1.71,1.96-1.52,2.45,0l7.78,25.21Z"/>
+        <path class="cls-2" d="m33.99,24.52c.29,1.03.1,1.81-.73,2.55l-9.35,8.37c-1.03.93-2.1,1.17-2.59-.44L11.77,4.1c-.39-1.32.2-2.15,1.57-2.15h11.99c1.13,0,1.81.49,2.15,1.57l6.51,21Z"/>
+        <path class="cls-2" d="m56.12,34.06c.39,1.32-.2,2.15-1.57,2.15h-12.48c-1.13,0-1.81-.49-2.15-1.57L30.47,4.1c-.39-1.32.2-2.15,1.57-2.15h12.48c1.13,0,1.81.49,2.15,1.57l9.45,30.55Z"/>
+      </g>
+      <text class="cls-3" transform="translate(55.26 14.88)"><tspan class="cls-9" x="0" y="0">M</tspan><tspan x="16.06" y="0">elissa </tspan><tspan class="cls-5" x="62.12" y="0">S</tspan><tspan class="cls-10" x="71.22" y="0">t</tspan><tspan x="77.57" y="0">o</tspan><tspan class="cls-11" x="87.5" y="0">re</tspan><tspan class="cls-6" x="102.67" y="0">y</tspan><tspan class="cls-7" x="8.37" y="20.73">G</tspan><tspan class="cls-4" x="20.78" y="20.73">r</tspan><tspan x="27.11" y="20.73">aphic </tspan><tspan class="cls-8" x="72.35" y="20.73">D</tspan><tspan x="85.38" y="20.73">esigne</tspan><tspan class="cls-1" x="134.68" y="20.73">r</tspan></text>
+    </g>
+  </g>
+</svg>
